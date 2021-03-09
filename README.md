@@ -1,1 +1,1 @@
-# SE
+Git project for Software Engineering.
